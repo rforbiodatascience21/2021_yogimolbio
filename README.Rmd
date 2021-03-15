@@ -1,0 +1,13 @@
+---
+title: "Reproducible Data Analysis Framework Exercise"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+This repository contains the code for github exercise in Lab7
+
