@@ -11,3 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This repository contains the code for github exercise in Lab7
 
+Updated this on 18-03-2021 to check if I can push this file to group4 on github.
+
